@@ -7,5 +7,5 @@ To run the application
 
 ```
 $>make
-$>ft_ssl [md5, sh256][-sqrp]
+$>ft_ssl [md5, sha256][-sqrp]
 ```
